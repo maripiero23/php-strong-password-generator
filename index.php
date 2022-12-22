@@ -56,7 +56,7 @@ include_once dirname(__FILE__)."/function.php";
 
             </div>
 
-            <form action="index.php" method="GET">
+            <form action="" method="GET">
                 <div class="me-3 my-3">
                     <input type="text" class="form-control" name="numeropass">
                 </div>
